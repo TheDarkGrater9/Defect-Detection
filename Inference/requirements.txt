@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+matplotlib
+seaborn
+psutil
+numpy
+scikit-learn
+onnx
+onnxruntime-gpu
+onnxruntime-tools
+pillow
